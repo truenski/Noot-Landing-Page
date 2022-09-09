@@ -1,0 +1,919 @@
+.frame-icon {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  width: 1914.29px;
+  height: 6147.94px;
+  overflow: hidden;
+  opacity: 0.35;
+}
+.rectangle-div {
+  position: absolute;
+  top: 5421px;
+  left: -23px;
+  background-color: #052727;
+  width: 2004px;
+  height: 438px;
+}
+.frame-icon1 {
+  position: absolute;
+  top: 2850px;
+  left: 0;
+  width: 1920.98px;
+  height: 153.7px;
+  overflow: hidden;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 2951px;
+  left: 0;
+  background-color: #00dc7d;
+  width: 1920px;
+  height: 622px;
+}
+.frame-div,
+.frame-icon2 {
+  position: absolute;
+  top: 3548px;
+  left: 0;
+  width: 1919.98px;
+  height: 153.7px;
+  overflow: hidden;
+}
+.frame-div {
+  top: 2996.7px;
+  left: 1948.98px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.prancheta-1-copiar-2-1,
+.prancheta-1-copiar-2-2 {
+  position: absolute;
+  top: 3781px;
+  left: 950px;
+  width: 634px;
+  height: 634px;
+  object-fit: cover;
+}
+.prancheta-1-copiar-2-2 {
+  top: 4467px;
+  left: 374px;
+}
+.frame-icon3 {
+  position: absolute;
+  top: 2111px;
+  left: 989px;
+  width: 413px;
+  height: 234px;
+  overflow: hidden;
+}
+.vector-icon {
+  position: absolute;
+  height: 99.68%;
+  width: 99.81%;
+  top: 0.16%;
+  right: 0.09%;
+  bottom: 0.16%;
+  left: 0.09%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.configure-regras {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.ipsum {
+  margin: 0;
+}
+.lorem-ipsum-dolor-sit-amet-co {
+  position: absolute;
+  height: 142.86%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -42.86%;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+}
+.para-textos-corridos-rubik {
+  position: absolute;
+  height: 48.72%;
+  width: 45.52%;
+  top: 25.64%;
+  right: 17.68%;
+  bottom: 25.64%;
+  left: 36.8%;
+}
+.frame-div1 {
+  position: absolute;
+  top: 1824px;
+  left: 987px;
+  width: 413px;
+  height: 234px;
+  overflow: hidden;
+  font-size: 28px;
+  color: #e4f0f2;
+}
+.frame-div3,
+.para-textos-corridos-rubik1 {
+  position: absolute;
+  height: 48.72%;
+  width: 45.52%;
+  top: 36.75%;
+  right: 17.92%;
+  bottom: 14.53%;
+  left: 36.56%;
+}
+.frame-div3 {
+  height: 42.74%;
+  width: 24.21%;
+  top: 43.16%;
+  right: -7.02%;
+  bottom: 14.1%;
+  left: 82.81%;
+  overflow: hidden;
+}
+.frame-div2,
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  position: absolute;
+  width: 413px;
+  height: 234px;
+  overflow: hidden;
+}
+.frame-div2 {
+  top: 2396px;
+  left: 987px;
+  font-size: 28px;
+  color: #e4f0f2;
+}
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  top: 1826px;
+  left: 542px;
+}
+.frame-icon5,
+.frame-icon6 {
+  top: 2398px;
+}
+.frame-icon6 {
+  top: 2112px;
+  left: 543px;
+}
+.clientes-div,
+.funcionalidades-div,
+.home-div,
+.sobre-div {
+  position: absolute;
+  top: 68px;
+  left: 609px;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 500;
+  color: #e4f0f2;
+  display: inline-block;
+}
+.clientes-div,
+.funcionalidades-div,
+.sobre-div {
+  top: 69px;
+  left: 711px;
+}
+.clientes-div,
+.funcionalidades-div {
+  left: 822px;
+}
+.clientes-div {
+  left: 1052px;
+}
+.icon,
+.prancheta-1-copiar-1 {
+  position: absolute;
+  top: 360px;
+  left: 1327px;
+  width: 543px;
+  height: 543px;
+  object-fit: cover;
+}
+.prancheta-1-copiar-1 {
+  top: 158px;
+  left: 35px;
+  width: 534px;
+  height: 534px;
+}
+.lorem-ipsum-dolor-sit-amet-co2 {
+  position: absolute;
+  height: 142.86%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -42.86%;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+}
+.para-textos-corridos-rubik2,
+.para-textos-corridos-rubik3 {
+  position: absolute;
+  top: 519px;
+  left: 694px;
+  width: 536px;
+  height: 63px;
+  text-align: center;
+  color: #76b1bc;
+}
+.para-textos-corridos-rubik3 {
+  top: 1714px;
+  left: 722px;
+  height: 53px;
+}
+.frame-icon7,
+.frame-icon8 {
+  position: absolute;
+  top: 654px;
+  left: 239px;
+  width: 185px;
+  height: 176px;
+  overflow: hidden;
+}
+.frame-icon8 {
+  top: 242px;
+  left: 1522px;
+  width: 192px;
+  height: 182px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 10.69%;
+  width: 54.9%;
+  top: 15.23%;
+  right: 22.19%;
+  bottom: 74.08%;
+  left: 22.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rectangle-div2,
+.rectangle-div3,
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7 {
+  position: absolute;
+  top: 977px;
+  left: 986px;
+  border-radius: 10px;
+  background-color: #dde8ea;
+  width: 183px;
+  height: 122px;
+}
+.rectangle-div3,
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7 {
+  left: 1190px;
+}
+.rectangle-div4,
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7 {
+  top: 1127px;
+  left: 986px;
+}
+.rectangle-div5,
+.rectangle-div6,
+.rectangle-div7 {
+  top: 1277px;
+}
+.rectangle-div6,
+.rectangle-div7 {
+  top: 1127px;
+  left: 1190px;
+}
+.rectangle-div7 {
+  top: 1277px;
+}
+.a-camada-de-proteo-que-falta {
+  position: absolute;
+  height: 162.79%;
+  width: 79.51%;
+  top: 0;
+  right: 20.49%;
+  bottom: -62.79%;
+  left: 0;
+  line-height: 56px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.para-titulos-anton {
+  position: absolute;
+  height: 2.98%;
+  width: 12.71%;
+  top: 17.99%;
+  right: 57.14%;
+  bottom: 79.03%;
+  left: 30.16%;
+  font-size: 48px;
+  color: #033434;
+  font-family: Anton;
+}
+.para-textos-corridos-rubik4 {
+  position: absolute;
+  top: 1227px;
+  left: 580px;
+  width: 268px;
+  height: 167px;
+  color: #457f7e;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 5.76%;
+  width: 12.45%;
+  top: 12.7%;
+  right: 87.55%;
+  bottom: 81.54%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.para-textos-corridos-rubik5 {
+  position: absolute;
+  top: 3219px;
+  left: 1000px;
+  width: 349px;
+  height: 237px;
+  color: #fff;
+}
+.para-textos-corridos-rubik6,
+.para-textos-corridos-rubik7 {
+  position: absolute;
+  top: 4119px;
+  left: 544px;
+  width: 349px;
+  height: 148px;
+  color: #76b1bc;
+}
+.para-textos-corridos-rubik7 {
+  top: 4753px;
+  left: 1079px;
+  width: 293px;
+  height: 110px;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 7.25%;
+  width: 10.76%;
+  top: 5.55%;
+  right: 0;
+  bottom: 87.2%;
+  left: 89.24%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  top: 1925px;
+  left: 596px;
+  font-size: 68px;
+  line-height: 28px;
+  font-family: "Font Awesome 6 Pro";
+  display: inline-block;
+  width: 74px;
+  height: 45px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  top: 2497px;
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  top: 2210px;
+  left: 1043px;
+}
+.div3,
+.div4,
+.div5 {
+  top: 1923px;
+  left: 1041px;
+}
+.div4,
+.div5 {
+  top: 2495px;
+}
+.div5 {
+  top: 2195px;
+  left: 597px;
+}
+.para-textos-corridos-rubik8,
+.para-textos-corridos-rubik9 {
+  position: absolute;
+  top: 1882px;
+  left: 699px;
+  width: 188px;
+  height: 114px;
+  font-size: 28px;
+  color: #e4f0f2;
+}
+.para-textos-corridos-rubik9 {
+  top: 2483px;
+  left: 695px;
+  width: 214px;
+  height: 92px;
+}
+.para-textos-corridos-rubik10,
+.para-textos-corridos-rubik11 {
+  position: absolute;
+  top: 2176px;
+  left: 1145px;
+  width: 204px;
+  height: 114px;
+  font-size: 28px;
+  color: #e4f0f2;
+}
+.para-textos-corridos-rubik11 {
+  top: 2167px;
+  left: 699px;
+  width: 196px;
+}
+.frame-icon10,
+.frame-icon11,
+.frame-icon9 {
+  position: absolute;
+  top: 2692px;
+  left: 292px;
+  width: 202px;
+  height: 191px;
+  overflow: hidden;
+}
+.frame-icon10,
+.frame-icon11 {
+  top: 3692px;
+  left: 936px;
+}
+.frame-icon11 {
+  top: 3174px;
+  left: 1478px;
+}
+.at-mesmo-de-mltiplos-terabit {
+  position: absolute;
+  height: 44.16%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 55.84%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 60px;
+  display: inline-block;
+}
+.fonte-para-titulos,
+.fonte-para-titulos1 {
+  position: absolute;
+  top: 376px;
+  left: 584px;
+  width: 756px;
+  height: 127px;
+  text-align: center;
+  font-size: 50px;
+  font-family: Anton;
+}
+.fonte-para-titulos1 {
+  top: 1579px;
+  left: 730px;
+  width: 520px;
+}
+.at-mesmo-de-mltiplos-terabit2 {
+  position: absolute;
+  height: 44.16%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 55.84%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 60px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.fonte-para-titulos2,
+.fonte-para-titulos3,
+.fonte-para-titulos4 {
+  position: absolute;
+  top: 3915px;
+  left: 543px;
+  width: 520px;
+  height: 250px;
+  font-size: 50px;
+  font-family: Anton;
+}
+.fonte-para-titulos3,
+.fonte-para-titulos4 {
+  top: 4550px;
+  left: 1080px;
+  width: 337px;
+  height: 189px;
+}
+.fonte-para-titulos4 {
+  top: 3010px;
+  left: 999px;
+  width: 471px;
+  height: 184px;
+  color: #033434;
+}
+.logo-200h-1-icon {
+  position: absolute;
+  top: 1152px;
+  left: 1038px;
+  width: 70px;
+  height: 76px;
+  object-fit: cover;
+}
+.enxadahost-1-1-icon,
+.outplay-white-1-icon {
+  position: absolute;
+  top: 1028px;
+  left: 1014px;
+  width: 132px;
+  height: 28px;
+  object-fit: cover;
+}
+.enxadahost-1-1-icon {
+  top: 1017px;
+  left: 1228px;
+  width: 107px;
+  height: 49px;
+}
+.logo-1-1-icon,
+.logo-gamersclub-1-icon {
+  position: absolute;
+  top: 1164px;
+  left: 1223px;
+  width: 117px;
+  height: 51px;
+  object-fit: cover;
+}
+.logo-gamersclub-1-icon {
+  top: 1328px;
+  left: 1006px;
+  width: 147px;
+  height: 22px;
+}
+.b25a89bce-1-icon,
+.design-sem-nome-4-1 {
+  position: absolute;
+  top: 1311px;
+  left: 1256px;
+  width: 51px;
+  height: 49px;
+  object-fit: cover;
+}
+.design-sem-nome-4-1 {
+  top: 3655px;
+  left: 893px;
+  width: 280px;
+  height: 216px;
+}
+.group-icon {
+  position: absolute;
+  height: 0.4%;
+  width: 3.99%;
+  top: 98.75%;
+  right: 20.55%;
+  bottom: 0.85%;
+  left: 75.47%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.noot-games-span,
+.span {
+  font-weight: 300;
+  font-family: Rubik;
+}
+.noot-games-span {
+  font-weight: 600;
+}
+.todos-os-direitos {
+  font-weight: 300;
+}
+.noot-games-todos-os-direitos {
+  position: absolute;
+  top: 5695px;
+  left: 348px;
+  font-size: 16px;
+  line-height: 171.5%;
+  color: #325959;
+  display: inline-block;
+  width: 500px;
+  height: 36px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 5661px;
+  left: 343px;
+  width: 1211px;
+  height: 1px;
+}
+.bg-icon,
+.bg-icon1 {
+  position: absolute;
+  height: 5.75%;
+  width: 64.32%;
+  top: 90.99%;
+  right: 18.23%;
+  bottom: 3.26%;
+  left: 17.45%;
+  border-radius: 24px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bg-icon1 {
+  width: 33.65%;
+  top: 91.01%;
+  bottom: 3.24%;
+  left: 48.13%;
+}
+.lorem-ipsum-dolor-sit-amet-co12 {
+  position: absolute;
+  height: 142.86%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -42.86%;
+  left: 0;
+  line-height: 24px;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.para-textos-corridos-rubik12 {
+  position: absolute;
+  top: 5265px;
+  left: 919px;
+  width: 635px;
+  height: 310px;
+  font-family: VT323;
+}
+.at-mesmo-de-mltiplos-terabit5 {
+  position: absolute;
+  height: 44.16%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 55.84%;
+  left: 0;
+  letter-spacing: 0.02em;
+  line-height: 60px;
+  text-transform: uppercase;
+  display: none;
+}
+.fonte-para-titulos5 {
+  position: absolute;
+  top: 5325px;
+  left: 487px;
+  width: 422px;
+  height: 184px;
+  font-size: 50px;
+  color: #033434;
+  font-family: Anton;
+}
+.frame-icon12 {
+  position: absolute;
+  top: 4891px;
+  left: 831px;
+  width: 185px;
+  height: 176px;
+  overflow: hidden;
+}
+.design-sem-nome-6-1,
+.rectangle-icon1 {
+  position: absolute;
+  top: 4843px;
+  left: 832px;
+  width: 220px;
+  height: 222px;
+}
+.rectangle-icon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.estou-sobre-ataque-agora {
+  position: absolute;
+  height: 49.12%;
+  width: 84.15%;
+  top: 24.56%;
+  right: 10.06%;
+  bottom: 26.32%;
+  left: 5.79%;
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.component-2-div {
+  position: absolute;
+  height: 0.99%;
+  width: 17.08%;
+  top: 0.92%;
+  right: 5.42%;
+  bottom: 98.09%;
+  left: 77.5%;
+  font-size: 20px;
+  color: #003939;
+}
+.design-sem-nome-7-icon {
+  position: absolute;
+  top: 5159px;
+  left: 624px;
+  width: 602px;
+  height: 425px;
+  object-fit: cover;
+}
+.cadastrar-se-div {
+  position: relative;
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div4,
+.frame-div5,
+.frame-div6 {
+  position: absolute;
+  top: 591px;
+  left: 859px;
+  border-radius: 20px;
+  background-color: #50ece9;
+  border: 1px solid #50ece9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 14px 25px;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #033434;
+}
+.frame-div5,
+.frame-div6 {
+  top: 3474px;
+  left: 1001px;
+  background-color: #033434;
+  border: 1px solid #033434;
+  padding: 14px 30px;
+  color: #50ece9;
+}
+.frame-div6 {
+  top: 4910px;
+  left: 1079px;
+  background-color: #50ece9;
+  border: 1px solid #50ece9;
+  padding: 14px 25px;
+  color: #033434;
+}
+.a-camada-de-proteo-em-lorem {
+  position: absolute;
+  height: 4.18%;
+  width: 14.06%;
+  top: 91.79%;
+  right: 65.26%;
+  bottom: 4.04%;
+  left: 20.68%;
+  font-size: 50px;
+  letter-spacing: 0.02em;
+  line-height: 60px;
+  text-transform: uppercase;
+  font-family: Anton;
+  color: #033434;
+  display: inline-block;
+}
+.para-textos-corridos-rubik13,
+.para-textos-corridos-rubik14 {
+  position: absolute;
+  top: 5584px;
+  left: 965px;
+  width: 102px;
+  height: 17px;
+  font-family: VT323;
+}
+.para-textos-corridos-rubik14 {
+  top: 5553px;
+  left: 926px;
+}
+.para-textos-corridos-rubik15,
+.para-textos-corridos-rubik16 {
+  position: absolute;
+  top: 5404px;
+  left: 747px;
+  width: 102px;
+  height: 17px;
+  font-family: VT323;
+}
+.para-textos-corridos-rubik16 {
+  top: 5209px;
+  left: 897px;
+}
+.para-textos-corridos-rubik17,
+.para-textos-corridos-rubik18 {
+  position: absolute;
+  top: 5186px;
+  left: 877px;
+  width: 102px;
+  height: 17px;
+  font-family: VT323;
+}
+.para-textos-corridos-rubik18 {
+  top: 5425px;
+  left: 715px;
+}
+.estou-sobre-ataque-agora1 {
+  position: absolute;
+  height: 49.12%;
+  width: 85.37%;
+  top: 24.56%;
+  right: 8.84%;
+  bottom: 26.32%;
+  left: 5.79%;
+  line-height: 28px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.component-4-div {
+  position: absolute;
+  top: 5391px;
+  left: 1163px;
+  width: 328px;
+  height: 57px;
+  font-size: 20px;
+  color: #50ece9;
+}
+.design-sem-nome-12-1,
+.imagem-bonecos-minecraft-png-s-icon {
+  position: absolute;
+  top: 226px;
+  left: 1532px;
+  width: 154px;
+  height: 206px;
+  object-fit: cover;
+}
+.design-sem-nome-12-1 {
+  top: 2602px;
+  left: 277px;
+  width: 232px;
+  height: 283px;
+}
+.flitterkatzen-mount-1-icon,
+.pngegg-1-icon {
+  position: absolute;
+  top: 3107px;
+  left: 1445px;
+  width: 298px;
+  height: 257px;
+  object-fit: cover;
+}
+.flitterkatzen-mount-1-icon {
+  top: 2921px;
+  left: 102px;
+  width: 910px;
+  height: 727px;
+}
+
+.design-sem-nome-11-1 {
+  position: absolute;
+  top: 580px;
+  left: 224px;
+  width: 258px;
+  height: 247px;
+  object-fit: cover;
+}
+.lading-page-noot {
+  position: relative;
+  background-color: #033434;
+  width: 100%;
+  height: 5771px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #00dd7d;
+  font-family: Rubik;
+}

@@ -1,11 +1,13 @@
 import { FunctionComponent } from "react";
 import Header from "../components/Header";
+import Intro from "../components/Intro";
 import "./LadingPageNoot.css";
 
 const LadingPageNoot: FunctionComponent = () => {
   return (
     <div className="lading-page-noot">
       <Header />
+      <Intro />
       <div className="rectangle-div" />
       <img className="frame-icon1" alt="" src="../frame1.svg" />
       <div className="rectangle-div1" />
@@ -46,21 +48,12 @@ const LadingPageNoot: FunctionComponent = () => {
       <img className="frame-icon5" alt="" src="../frame5.svg" />
       <img className="frame-icon6" alt="" src="../frame6.svg" />
 
-      <img className="icon" alt="" src="../1-1@2x.png" />
-      <img
-        className="prancheta-1-copiar-1"
-        alt=""
-        src="../prancheta-1-copiar-1@2x.png"
-      />
-
       <div className="para-textos-corridos-rubik3">
         <div className="lorem-ipsum-dolor-sit-amet-co2">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </div>
       </div>
-      <img className="frame-icon7" alt="" src="../frame7.svg" />
-      <img className="frame-icon8" alt="" src="../frame8.svg" />
       <img className="vector-icon2" alt="" src="../vector2.svg" />
       <div className="rectangle-div2" />
       <div className="rectangle-div3" />
@@ -82,7 +75,6 @@ const LadingPageNoot: FunctionComponent = () => {
           minim veniam, quis nostrud.
         </div>
       </div>
-      <img className="vector-icon3" alt="" src="../vector3.svg" />
       <div className="para-textos-corridos-rubik5">
         <div className="lorem-ipsum-dolor-sit-amet-co2">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -103,7 +95,6 @@ const LadingPageNoot: FunctionComponent = () => {
       <div className="para-textos-corridos-rubik7">
         <div className="lorem-ipsum-dolor-sit-amet-co2">{`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. `}</div>
       </div>
-      <img className="vector-icon4" alt="" src="../vector4.svg" />
       <div className="div"></div>
       <div className="div1"></div>
       <div className="div2"></div>
@@ -136,7 +127,8 @@ const LadingPageNoot: FunctionComponent = () => {
       <img className="frame-icon9" alt="" src="../frame9.svg" />
       <img className="frame-icon10" alt="" src="../frame10.svg" />
       <img className="frame-icon11" alt="" src="../frame11.svg" />
-      <div className="fonte-para-titulos1">
+      {/*DISPLAY NONE*/}
+      <div style={{ display: "none" }} className="fonte-para-titulos1">
         <div className="at-mesmo-de-mltiplos-terabit">
           PROTEÇÃO PARA ATAQUES DE LOREM IPSUM.
         </div>
@@ -286,11 +278,7 @@ const LadingPageNoot: FunctionComponent = () => {
         <img className="rectangle-icon1" alt="" src="../rectangle-51.svg" />
         <div className="estou-sobre-ataque-agora1">Estou sobre LOREM IPSUM</div>
       </div>
-      <img
-        className="imagem-bonecos-minecraft-png-s-icon"
-        alt=""
-        src="../imagembonecosminecraftpngstevepng-1@2x.png"
-      />
+
       <img
         className="design-sem-nome-12-1"
         alt=""
@@ -301,11 +289,6 @@ const LadingPageNoot: FunctionComponent = () => {
         className="flitterkatzen-mount-1-icon"
         alt=""
         src="../flitterkatzen-mount-1@2x.png"
-      />
-      <img
-        className="design-sem-nome-11-1"
-        alt=""
-        src="../design-sem-nome-11-1@2x.png"
       />
     </div>
   );

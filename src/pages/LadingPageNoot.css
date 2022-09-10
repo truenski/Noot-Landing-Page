@@ -78,13 +78,7 @@
   max-width: 100%;
   max-height: 100%;
 }
-.configure-regras {
-  margin-block-start: 0;
-  margin-block-end: 0;
-}
-.ipsum {
-  margin: 0;
-}
+
 .lorem-ipsum-dolor-sit-amet-co {
   position: absolute;
   height: 142.86%;
@@ -189,33 +183,8 @@
 .clientes-div {
   left: 1052px;
 }
-.icon,
-.prancheta-1-copiar-1 {
-  position: absolute;
-  top: 360px;
-  left: 1327px;
-  width: 543px;
-  height: 543px;
-  object-fit: cover;
-}
-.prancheta-1-copiar-1 {
-  top: 158px;
-  left: 35px;
-  width: 534px;
-  height: 534px;
-}
-.lorem-ipsum-dolor-sit-amet-co2 {
-  position: absolute;
-  height: 142.86%;
-  width: 100%;
-  top: 0;
-  right: 0;
-  bottom: -42.86%;
-  left: 0;
-  line-height: 24px;
-  display: inline-block;
-}
-.para-textos-corridos-rubik2,
+
+
 .para-textos-corridos-rubik3 {
   position: absolute;
   top: 519px;
@@ -230,15 +199,7 @@
   left: 722px;
   height: 53px;
 }
-.frame-icon7,
-.frame-icon8 {
-  position: absolute;
-  top: 654px;
-  left: 239px;
-  width: 185px;
-  height: 176px;
-  overflow: hidden;
-}
+
 .frame-icon8 {
   top: 242px;
   left: 1522px;
@@ -329,17 +290,7 @@
   height: 167px;
   color: #457f7e;
 }
-.vector-icon3 {
-  position: absolute;
-  height: 5.76%;
-  width: 12.45%;
-  top: 12.7%;
-  right: 87.55%;
-  bottom: 81.54%;
-  left: 0;
-  max-width: 100%;
-  max-height: 100%;
-}
+
 .para-textos-corridos-rubik5 {
   position: absolute;
   top: 3219px;
@@ -363,17 +314,7 @@
   width: 293px;
   height: 110px;
 }
-.vector-icon4 {
-  position: absolute;
-  height: 7.25%;
-  width: 10.76%;
-  top: 5.55%;
-  right: 0;
-  bottom: 87.2%;
-  left: 89.24%;
-  max-width: 100%;
-  max-height: 100%;
-}
+
 .div,
 .div1,
 .div2,
@@ -468,29 +409,7 @@
   top: 3174px;
   left: 1478px;
 }
-.at-mesmo-de-mltiplos-terabit {
-  position: absolute;
-  height: 44.16%;
-  width: 100%;
-  top: 0;
-  right: 0;
-  bottom: 55.84%;
-  left: 0;
-  letter-spacing: 0.02em;
-  line-height: 60px;
-  display: inline-block;
-}
-.fonte-para-titulos,
-.fonte-para-titulos1 {
-  position: absolute;
-  top: 376px;
-  left: 584px;
-  width: 756px;
-  height: 127px;
-  text-align: center;
-  font-size: 50px;
-  font-family: Anton;
-}
+
 .fonte-para-titulos1 {
   top: 1579px;
   left: 730px;
@@ -867,8 +786,7 @@
   font-size: 20px;
   color: #50ece9;
 }
-.design-sem-nome-12-1,
-.imagem-bonecos-minecraft-png-s-icon {
+.design-sem-nome-12-1{
   position: absolute;
   top: 226px;
   left: 1532px;
@@ -898,14 +816,6 @@
   height: 727px;
 }
 
-.design-sem-nome-11-1 {
-  position: absolute;
-  top: 580px;
-  left: 224px;
-  width: 258px;
-  height: 247px;
-  object-fit: cover;
-}
 .lading-page-noot {
   position: relative;
   background-color: #033434;

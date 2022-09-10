@@ -142,6 +142,7 @@ export const MinecraftSwordsman = styled.img`
 export const MinecraftSwordsmanContainer = styled.div``;
 
 export const RightSideVector = styled.img`
+  z-index: 1;
   position: absolute;
   max-width: 100%;
   max-height: 100%;

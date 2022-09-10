@@ -122,6 +122,7 @@ export const MinecraftSwordsmanFrame = styled.img`
   width: 185px;
   height: 176px;
   overflow: hidden;
+  z-index: 1;
 
   position: relative;
   top: 58px;
@@ -135,6 +136,7 @@ export const MinecraftSwordsman = styled.img`
   position: relative;
   top: 78px;
   left: 18px;
+  z-index: 1;
 `;
 
 export const MinecraftSwordsmanContainer = styled.div``;

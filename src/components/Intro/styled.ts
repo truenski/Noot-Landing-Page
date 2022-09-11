@@ -20,7 +20,7 @@ export const Content = styled.div`
   flex-direction: column;
   gap: 16px;
   width: 100%;
-
+  margin-top: -250px;
   @media (max-width: 576px) {
     margin-top: 250px;
   }
@@ -111,7 +111,7 @@ export const SmallText = styled.p`
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   @media (max-width: 576px) {
-    font-size: 0.8rem;
+    font-size: 1rem;
     width: 95vw;
   }
 `;

@@ -43,7 +43,7 @@ export const LeftSideVector = styled.img`
   max-width: 100%;
   max-height: 100%;
   height: auto;
-  top: 110px;
+  top: 160px;
   left: -210px;
   width: 240px;
   overflow: hidden;
@@ -54,7 +54,7 @@ export const MonkeyFrame = styled.img`
   overflow: hidden;
   width: 185px;
   position: relative;
-  bottom: 121px;
+  bottom: 71px;
   left: 213px;
 `;
 
@@ -62,7 +62,7 @@ export const MonkeyImg = styled.img`
   object-fit: cover;
   width: 258px;
   position: relative;
-  bottom: 378px;
+  bottom: 328px;
   right: -186px;
 `;
 

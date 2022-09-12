@@ -1,6 +1,11 @@
+import { stringify } from "querystring";
 import styled from "styled-components";
+import { theme } from "../../Theme";
 
-export const Btn = styled.button`
+const bg = theme.lightBlue;
+const fg = theme.darkGreen;
+
+export const Btn = styled.button<{ inverted?: boolean }>`
   box-shadow: 0px 0px 0px rgba(0, 221, 125, 0.32);
   border-radius: 20px;
   line-height: normal;
@@ -14,4 +19,6 @@ export const Btn = styled.button`
   cursor: pointer;
   white-space: nowrap;
   border: none;
+  color: ${(props) => (props.inverted ? bg : fg)};
+  background: ${(props) => (props.inverted ? fg : bg)};
 `;

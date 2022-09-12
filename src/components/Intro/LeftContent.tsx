@@ -26,7 +26,7 @@ const LeftContent = (props: Props) => {
         src="../../frame7.svg"
       />
       <LeftSideVector
-        data-aos="fade-up"
+        data-aos="fade-in"
         className="vector-icon3"
         alt=""
         src="../../vector3.svg"

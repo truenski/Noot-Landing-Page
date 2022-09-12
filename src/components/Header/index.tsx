@@ -6,6 +6,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Container, Content, Logo, PageLinkButtonContainer } from "./styled";
 import Burger from "./Burger";
 import SideMenu from "./SideMenu";
+import { ThemeProvider } from "styled-components";
+import { theme } from "../../Theme";
 
 type Props = {};
 

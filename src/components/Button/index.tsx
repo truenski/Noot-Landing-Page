@@ -3,6 +3,8 @@ import NootLink from "../NootLink";
 import { Btn } from "./styled";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { theme } from "../../Theme";
+import { ThemeProvider } from "styled-components";
 AOS.init({
   duration: 1200,
 });
@@ -12,23 +14,10 @@ type Props = {
 };
 
 const Button = (props: Props) => {
-  const invertedColor = {
-    backgroundColor: "#033434",
-    color: "#50ece9",
-  };
-
-  const normalColor = {
-    backgroundColor: "#50ece9",
-    color: "#033434",
-  };
-
   return (
     <NootLink>
-      <Btn
-        data-aos="fade-in"
-        style={props.inverted ? invertedColor : normalColor}
-      >
-        {props.children}
+      <Btn inverted={props.inverted} data-aos="fade-in">
+        {props.children}{" "}
       </Btn>
     </NootLink>
   );

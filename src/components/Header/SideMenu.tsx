@@ -1,3 +1,5 @@
+import { ThemeProvider } from "styled-components";
+import { theme } from "../../Theme";
 import Button from "../Button";
 import NootLink from "../NootLink";
 import { PageLink, StyledMenu } from "./styled";

@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { theme } from "../../Theme";
 
 export const PageLink = styled.div`
   font-weight: 500;
@@ -15,15 +16,16 @@ export const Logo = styled.img`
   }
 `;
 
-export const Container = styled.div`
-  margin-top: 2%;
-`;
+export const Container = styled.div``;
 
 export const Content = styled.div`
   display: flex;
   justify-content: space-between;
-  margin: 0px 4%;
   align-items: center;
+  background: ${theme.darkGreen};
+  z-index: 10;
+  padding: 2% 4% 0 4%;
+  margin: 0;
 `;
 
 export const PageLinkButtonContainer = styled.div`
@@ -95,10 +97,10 @@ export const StyledMenu = styled.nav<{ open: boolean }>`
   justify-content: center;
   align-items: center;
   background: #052727;
-  transform: ${({ open }) => (open ? "translateX(0)" : "translateX(-100%)")};
   text-align: left;
-  padding: 2rem;
-  position: ${({ open }) => (open ? "relative" : "absolute")};
+  height: ${({ open }) => (open ? "405px" : "0px")};
+  padding: ${({ open }) => (open ? "2rem" : "0px")};
+  overflow: hidden;
   z-index: 1;
   transition: all 0.2s linear;
   @media (max-width: 576px) {

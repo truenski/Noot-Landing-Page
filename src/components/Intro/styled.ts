@@ -43,7 +43,7 @@ export const LeftSideVector = styled.img`
   max-width: 100%;
   max-height: 100%;
   height: auto;
-  top: 160px;
+  top: 180px;
   left: -210px;
   width: 240px;
   overflow: hidden;
@@ -54,7 +54,7 @@ export const MonkeyFrame = styled.img`
   overflow: hidden;
   width: 185px;
   position: relative;
-  bottom: 71px;
+  bottom: 51px;
   left: 213px;
 `;
 
@@ -62,7 +62,7 @@ export const MonkeyImg = styled.img`
   object-fit: cover;
   width: 258px;
   position: relative;
-  bottom: 328px;
+  bottom: 308px;
   right: -186px;
 `;
 
@@ -85,7 +85,6 @@ export const EmeraldTitle = styled.p`
   margin: 0;
   font-size: 3.125rem;
   font-family: Anton;
-  white-space: nowrap;
 
   @media (max-width: 576px) {
     font-size: 2.125rem;
@@ -97,10 +96,6 @@ export const SmallTextContainer = styled.div`
   color: #76b1bc;
   padding: 13px;
   width: 560px;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  -webkit-box-orient: vertical;
 `;
 
 export const SmallText = styled.p`
